@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
+This repository was mirrored from [a repository maintained by Microsoft](https://github.com/dotnet-architecture/eShopOnWeb). The repo is a sample ASP.NET Core 6.0 reference application, used here to demonstrate SonarQube, SonarCloud, and SonarLint for documentation purposes.
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
